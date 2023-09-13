@@ -1,0 +1,18 @@
+body {
+    padding-bottom: 350px;
+    margin: 0;
+    background-color: rgb(249, 249, 249);  
+  }
+  /*This code is Writen by Ansh Malviya*/
+  p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-left: 0;
+  }
+  /*The soul purpose of making this imitation of the YouTube.com is to pratice HTML and CSS writing.*/
+  .credit {
+    font-family: Roboto, Arial;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: right;
+  }
