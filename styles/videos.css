@@ -39,7 +39,8 @@
     display: grid;
     grid-template-columns: 45px 1fr;
   }
-  /*The soul purpose of making this imitation of the YouTube.com is to pratice HTML and CSS writing.*/
+  /*The soul purpose of making this imitation of the YouTube.com
+  is to pratice HTML and CSS writing.*/
   .video_info {
     width: 200px;
     margin-left: 10px;
